@@ -2,24 +2,22 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: <a href='#'>Affiliations</a> Massachusetts Institute of Technology, Cambridge, MA, USA
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>1-343A, 77 Massachusetts Avenue, Cambridge, MA, 02139, US</p>
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Laxman Kafle is a PhD student in [Prof. Herbert Einstein's](https://herbert-einstein.org/) lab in [Civil and Environmental Engineering](https://cee.mit.edu/). He completed his Master's degree from [Tsinghua University](https://www.tsinghua.edu.cn/en/), China and undergraduate from Tribhuvan University, Nepal in Civil Engineering. His research interests include geothermal energy, fracture mechanics, and numerical modeling.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I am interested in geo-rock mechanics, geothermal energy, and experimental geotechnique. Beyond my research, I am deeply committed to promoting sustainability and addressing the environmental challenges we face. I believe that the most significant breakthroughs occur when we collaborate and share knowledge. I'm always open to partnerships, discussions, and interdisciplinary projects with like-minded professionals.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+[Facebook](https://www.facebook.com/laxman.king.kafle/), [Linkdin](https://www.linkedin.com/in/laxman360/), and [Instagram](https://www.instagram.com/laxmankafle02/)
