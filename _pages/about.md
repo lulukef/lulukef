@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: <a href='#'>Affiliations</a> Massachusetts Institute of Technology, Cambridge, MA, USA
 
